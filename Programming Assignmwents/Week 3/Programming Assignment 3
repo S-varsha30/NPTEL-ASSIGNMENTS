@@ -1,3 +1,5 @@
+Write a C program to check whether a given number (integer) is Even or Odd.
+
 #include <stdio.h>
 int main()
 {
